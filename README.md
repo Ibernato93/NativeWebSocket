@@ -7,8 +7,8 @@ The [Websocketpp](https://github.com/zaphoyd/websocketpp) library was used to im
 <br>
 In case you want to manage JSON messages, you can use the [nlohmann/json]([https://github.com/zaphoyd/websocketpp](https://github.com/nlohmann/json)) library already included in this project.
 
-#License
+# License
 Refer to the included libraries
 
-#Contributions
+# Contributions
 Any help is appreciated to improve the project.
