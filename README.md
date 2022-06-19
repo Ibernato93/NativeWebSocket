@@ -1,5 +1,5 @@
 # NativeWebSocket
-Implementing an android app with a native Websocket in C++.
+Implementing an android app with a native Websocket in C++ using boost.
 <br>
 The [Websocketpp](https://github.com/zaphoyd/websocketpp) library was used to implement the websocket.
 <br>
